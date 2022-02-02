@@ -22,6 +22,10 @@
   border-radius: 5px;
 }
 
+.blue-border.is-invalid {
+  border: 2px solid #e50d14 !important;
+}
+
 label {
   font-style: normal;
   font-weight: 500;
